@@ -1,9 +1,30 @@
-👋 Hi there! I'm Tom, a passionate Computer Science student delving into the world of C# programming. My journey in tech is driven by curiosity and a love for problem-solving. I'm currently working on various projects to sharpen my skills and contribute to the open-source community. Let's connect and collaborate on exciting tech endeavors!
+## About Me
 
-🌟 Interests: Cybersecurity, Software Development, Computer Science, Data Structures and Algorithms
+Hello! I’m Tom a passionate Computer Science student with a keen interest in technology and software development. I’m currently expanding my skills in the world of coding and cybersecurity, with a focus on C# and .NET technologies. My goal is to build innovative and impactful software solutions while diving deep into the exciting world of security to better understand how to protect and optimize modern systems.
 
-📚 Currently Learning: C# and .NET Framework, Object-Oriented Programming, Git and GitHub for version control
+## Tech Stack & Interests
 
-🚀 Projects: Scientific Calculator in Windows Forms - Im currently working on a complex graphing calculator which has a variety of different functions relevent to mathematics and computer science.
+- **Programming Languages**: C#
+- **Frameworks**: .NET, ASP.NET
+- **Tools**: Visual Studio, Git, Kali Linux
+- **Cybersecurity**: Intrigued by ethical hacking, network security, and cryptography 
+- **Software Development**: Passionate about creating efficient, maintainable, and scalable code
 
-📫 Get in Touch: LinkedIn: www.linkedin.com/in/thomas-w-713a5429b
+## Current Focus
+
+I’m currently working on honing my skills in C# and .NET, exploring different areas of software development, and learning how to integrate security best practices into applications. I have a strong interest in both **front-end** and **back-end** development and am always eager to learn more about **secure coding practices** and **cybersecurity techniques**.
+
+## Projects
+
+Feel free to explore my repositories! I'm working on a variety of projects, including:
+
+- **Calculator Project**: Building applications and tools with C# and .NET
+
+## Let's Connect!
+
+I’m always looking to learn from and collaborate with others. If you share similar interests or have any questions about my projects, feel free to reach out!
+
+- 💼 LinkedIn: https://www.linkedin.com/in/thomas-w-713a5429b
+- My website: tpwoolley.digital
+
+x
