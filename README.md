@@ -26,5 +26,3 @@ I’m always looking to learn from and collaborate with others. If you share sim
 
 - 💼 LinkedIn: https://www.linkedin.com/in/thomas-w-713a5429b
 - My website: www.tpwoolley.digital
-
-x
